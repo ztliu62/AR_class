@@ -1,1 +1,1 @@
-Readme
+安装unity3d可以用上面文件夹中的unity3D安装包，选项参照截图设置
