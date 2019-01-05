@@ -9,3 +9,5 @@
 [4] Vuforia开发端口 https://developer.vuforia.com/downloads/sdk
 
 [5] Android SDK开发入门教程 https://www.jianshu.com/p/28becca53726
+
+https://downloadcenter.intel.com/download/28435/Intel-Graphics-Windows-10-DCH-Drivers
